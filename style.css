@@ -1,0 +1,106 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+h1{
+    font-size: 40px;
+    margin: 3px;
+    padding-top:px;
+}
+h2{
+    font-size: 30px;
+    color: #808080;
+}
+.fnam{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.helf-width{
+    width: 40%;
+    margin: 5%;
+}
+img{
+    width: 100%;
+}
+.helf-width h1{
+    margin-top: 150px;
+    direction: ltr;
+    color: #4d4d4d;
+}
+
+.ex-color{
+    padding-top: 20px;
+    padding-bottom: 40px;
+    color: #808080;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(	#ff8000,tomato);
+    color: white;
+    padding: 15px 30px;
+    border-radius:50px;
+}
+#imgs{
+    width: 50%;
+    margin-left: 150px;
+}
+.banner{
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+}
+.contact{
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+.recipes{
+    text-align: center;
+
+}
+.box-model{
+    width: 33%;
+    margin: 3%;
+    box-shadow: 10px 20px 20px gray;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    text-align: left;
+    border-radius: 5%;
+}
+.Subscribers-box{
+    margin-left: 130px;
+    width: 75%;
+    height: 200px;
+   box-shadow: 10px 10px 40px #cccccc;
+   text-align: center;
+}
+.counter-box{
+    padding-left: 150px;
+    padding-top: 50px;
+
+}
+.counter-box span{
+    font-size: 10px;
+    font-weight: 700;
+}
+footer{
+    width: 100%;
+    text-align: center;
+    background-color: #0d0d0d;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+footer h1{
+
+    color: #666666;
+    font-size: 22px;
+
+}
+footer p{
+    color: #bfbfbf;
+    font-size: 10px;
+    padding-top: 25px;
+}
